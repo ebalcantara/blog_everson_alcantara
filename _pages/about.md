@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Olá, sou **[Everson Batista alcantara](https://www.linkedin.com/in/everson-alcantara/)** [^2], Engenheiro de Computação em formação. Sou naturalmente curioso e interessado em aprender. Desde o ensino médio a engenharia fez parte dos meus dias. Primeiro no curso técnico em Eletrônica, depois a graduação em Engenharia Elétrica que evoluiu para a graduação em Computação.
+Olá, sou **[Everson Batista alcantara](https://www.linkedin.com/in/everson-alcantara/)** [^1], Engenheiro de Computação em formação. Sou naturalmente curioso e interessado em aprender. Desde o ensino médio a engenharia fez parte dos meus dias. Primeiro no curso técnico em Eletrônica, depois a graduação em Engenharia Elétrica que evoluiu para a graduação em Computação.
  
 Além disso, a Ciência de Dados é um assunto que me fascina: trabalhar bases, ajustar correlações, fazer testes de efetividade e eficiência, análise de custo x benefício e entregar projetos de impacto que façam a diferença.
 
